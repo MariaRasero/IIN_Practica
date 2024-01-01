@@ -1,2 +1,6 @@
 # IIN_Practica
-# Descripción del proyecto hola como estamos
+# Descripción del proyecto
+El objetivo de este repositorio es aprender a utilizar los comandos de git.
+# Pruebas de código
+`string[] enemies = new string[5] { "Goomba", "Koopa", "Paratroopa", "Hammer Bro", "Bowser" };`
+`List<string> defeatedEnemies = new List<string>();`
